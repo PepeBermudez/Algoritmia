@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1541678416 source:c:\users\pebem\documents\github\algoritmia\bol1\hashing.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hashing.h"
+	<windows.h>
+
+1541674406 c:\users\pebem\documents\github\algoritmia\bol1\hashing.h
+
+1541678515 source:c:\users\pebem\documents\github\algoritmia\bol1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hashing.h"
+
